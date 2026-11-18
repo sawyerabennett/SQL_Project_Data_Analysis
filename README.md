@@ -94,7 +94,7 @@ Analysis: Top-Paying Business Analyst Jobs
 
 **Visualization**
 
-![Annual salaries for the ten highest-paying jobs in the selected states.](SQL_Project_PNG's\1_top_paying_jobs.png)
+![Top-Paying Business Analyst Jobs](https://github.com/sawyerabennett/SQL_Project_Data_Analysis/blob/main/SQL_Project_PNG's/1_top_paying_jobs.png)
 
 *Annual salaries for the ten highest-paying jobs in the selected states.*
 
@@ -168,7 +168,7 @@ ORDER BY
 
 **Visualization**
 
-![Distinct job-posting counts for the most commonly named skills.](SQL_Project_PNG's\2_top_paying_job_skills.png)
+![Skills Required for Top-Paying Jobs](https://github.com/sawyerabennett/SQL_Project_Data_Analysis/blob/main/SQL_Project_PNG's/2_top_paying_job_skills.png)
 
 *Distinct job-posting counts for the most commonly named skills.*
 
@@ -229,7 +229,7 @@ LIMIT 5;
 
 **Visualization**
 
-![Skill demand in Business Analyst job postings across all locations.](SQL_Project_PNG's\3_top_demanded_skills.png)
+![Most In-Demand Skills](SQL_Project_PNG%27s/3_top_demanded_skills.png)
 
 *Skill demand in Business Analyst job postings across all locations.*
 
@@ -293,7 +293,7 @@ LIMIT 25;
 
 **Visualization**
 
-![Average salary of the ten highest-paid skills from the regional dataset.](SQL_Project_PNG's\4_top_paying_skills.png)
+![Highest-Paying Business Analyst Skills](https://github.com/sawyerabennett/SQL_Project_Data_Analysis/blob/main/SQL_Project_PNG's/4_top_paying_skills.png)
 
 *Average salary of the ten highest-paid skills from the regional dataset.*
 
@@ -367,11 +367,11 @@ LIMIT 25;
 
 **Visualization**
 
-![Average salaries for qualified skills, after excluding one duplicate SAS label from this visualization.](SQL_Project_PNG's\5_optimal_skills_salary.png)
+![Optimal Skills by Average Salary](https://github.com/sawyerabennett/SQL_Project_Data_Analysis/blob/main/SQL_Project_PNG's/5_optimal_skills_salary.png)
 
 *Average salaries for qualified skills, after excluding one duplicate SAS label from this visualization.*
 
-![Distinct posting demand for the same qualified skills](SQL_Project_PNG's\5_optimal_skills_demand.png)
+![Optimal Skills by Distinct Jobs](https://github.com/sawyerabennett/SQL_Project_Data_Analysis/blob/main/SQL_Project_PNG's/5_optimal_skills_demand.png)
 
 *The second chart shows job-posting counts for the same skills; comparing these charts helps distinguish high salary from broader demand.*
 
