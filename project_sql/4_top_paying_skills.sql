@@ -23,3 +23,12 @@ GROUP BY
 ORDER BY
     avg_salary DESC
 LIMIT 25;
+
+/* Analysis: Top Skills Based on Salary for Business Analysts
+- This query returned a much more niche set of skills that I'm not super familiar with
+- The results lead me to want to explore the quantity of postings associated with each of these
+  niche skills
+- Python has an average salary of $104,038. Supporting the claim that it is a high-paying skill,
+  but it is not as in-demand as other skills like SQL and Excel
+- Excel doesn't appear here, but SQL does with an average salary of $92,964
+*/

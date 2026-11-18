@@ -31,3 +31,11 @@ ORDER BY
     avg_salary DESC,
     demand_count DESC
 LIMIT 25;
+
+/* Analysis: Optimal Skills for Business Analysts
+- Tableau appears to be the most optimal skill to learn for Business Analysts,
+  appearing 29 times and having the 4th highest average salary among qualified skills
+  with an average salary of $107,688.
+- Phoenix is the highest paying optimal skill, being demanded 7 times in my region with
+  an average salary of $143,303.
+*/

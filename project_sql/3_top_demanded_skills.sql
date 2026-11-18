@@ -22,3 +22,15 @@ GROUP BY
 ORDER BY
     demand_count DESC
 LIMIT 5;
+
+/* Analysis: Most In-Demand Skills for Business Analysts
+- SQL is the most demanded skill for Business Analysts, showing up 17,372 times!
+- Excel appeared nearly as much, with 17,134 postings. This is interesting because it 
+  showed up in 44% of the top-paying jobs, showing that while it may not be a high-paying skill,
+  it is still highly demanded in the job market and an essential entry level skill.
+- Tableau and Power BI both appeared roughly 9,300 times, showing that data visualization 
+  is a highly demanded skill for Business Analysts.
+- Python leans more into data science, but it still came in as the 5th most demanded skill
+  for Business Analysts, appearing 8,097 times. It's a skill that takes time to learn but is
+  essential for the high paying jobs
+*/

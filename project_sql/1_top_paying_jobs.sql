@@ -25,3 +25,11 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 10;
+
+/*
+Analysis: Top-Paying Business Analyst Jobs
+- All of the top paying jobs in my region are in Texas.
+- The salary range for the top paying jobs ranges from $120,000 to $172,500. With the average being $146,121.
+- USAA appears to be a well paying employer, contributing 5 of the 10 highest paying jobs
+- Unsurpisingly, the top paying jobs are all senior/lead-level positions, with 5 of the 10 being senior-level roles.
+*/

@@ -37,10 +37,10 @@ INNER JOIN skills_dim
 ORDER BY
     top_paying_jobs.salary_year_avg DESC;
 
-/*
-Analysis: Top-Paying Business Analyst Jobs
-- Tableau (75%), SQL (62.5%), and Snowflake (62.5%) were the most requested skills.
-- Python and R appeared in 50% of positions.
-- Results suggest strong demand for data visualization, SQL, and cloud analytics.
-- Dataset includes 8 unique high-paying jobs in Texas, primarily senior-level roles.
+/* Analysis: Top-Paying Business Analyst Jobs and Required Skills with Them
+- Data visualizations skills are clearly essential for Business Analysts,
+  with Tableau appearing in 89% of the top-paying jobs
+- SQL is heavily in demand as well, appearing in 78% of the top-paying jobs
+- Python and R both appear in 56% of postings
+- Excel may be old, but it still appears in 44% of postings, showing it's relevance still
 */
